@@ -4,7 +4,7 @@
 #container {
   font-family: Helvetica, Geneva, Arial, sans-serif;
   padding-left: 20px;
-  background-color: #FFFFFF; /* beige */
+  background-color: #F5F5DC; /* beige */
   font-color: #2A2929; /* dark grey */
   margin: 10px;
 }
@@ -22,21 +22,16 @@ h1 {
 
 }
 form {
-
-
-
+font-family: Helvetica, Geneva, Arial, sans-serif;
+color: blue;
 
 
 }
 label {
 
 
-
-
-
 }
 .inputs {
-
 
 
 
